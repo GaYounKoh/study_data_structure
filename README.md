@@ -9,3 +9,9 @@ study_data_structure
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
 ```
+<br>
+
+# 220319 rank
+89396
+
+<br>
