@@ -11,7 +11,8 @@ InteractiveShell.ast_node_interactivity = "all"
 ```
 <br>
 
-# 220319 rank
-89396
+# 220319 rank (solved Q)
+89396 (6)
+87956 (7)
 
 <br>
