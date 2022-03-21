@@ -22,16 +22,17 @@ InteractiveShell.ast_node_interactivity = "all"
 ```
 <br>
 
-# 220319 rank (solved Q)
+# 220319 rank (solved Q, score)
 89396 (6) <br>
 87956 (7, 1016) <br>
 
 <br>
 
-# 0321 rank (solved Q, score)
+# 220321 rank (solved Q, score)
 77424 (8, 1025) <br>
 <br>
 
+# 3w 데이터 마이닝
 * 3w 수업내용 : greedy (그리디)
 1. 거스름돈
 2. 1이 될때까지
