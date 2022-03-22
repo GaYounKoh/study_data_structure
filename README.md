@@ -45,3 +45,6 @@ InteractiveShell.ast_node_interactivity = "all"
 2. 아이에게 원하는 쿠키 주기
 <br>
 
+# 220322 rank (solved Q, total score)
+74820 (9, 1028) <br>
+<br>
