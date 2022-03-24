@@ -48,3 +48,7 @@ InteractiveShell.ast_node_interactivity = "all"
 # 220322 rank (solved Q, total score)
 74820 (9, 1028) <br>
 <br>
+
+
+# 220324 rank (solved Q, total score)
+72352 (10, 1031)
