@@ -60,3 +60,7 @@ InteractiveShell.ast_node_interactivity = "all"
 
 # 220327 rank (solved Q, total score)
 55131 (14, 1060)
+
+# 220328 rank (solved Q, total score)
+데이터 마이닝 시간에 한 문제 풀었음. (교수님 풀이 보기 전에 주신 시간 (15분)내에 풀었음.) <br>
+52129 (15, 1067)
