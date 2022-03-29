@@ -63,4 +63,5 @@ InteractiveShell.ast_node_interactivity = "all"
 
 # 220328 rank (solved Q, total score)
 데이터 마이닝 시간에 한 문제 풀었음. (교수님 풀이 보기 전에 주신 시간 (15분)내에 풀었음.) <br>
-52129 (15, 1067)
+52129 (15, 1067) <br>
+[교수님께서 참고하신 듯한 자료...](https://doing7.tistory.com/70) <br>
