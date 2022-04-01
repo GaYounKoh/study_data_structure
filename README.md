@@ -73,3 +73,8 @@ InteractiveShell.ast_node_interactivity = "all"
 
 # 220330 rank (solved Q, total score)
 50339 (16, 1072) <br>
+<br>
+
+# 220401 rank (solved Q, total score)
+50080 (17, 1073) <br>
+요새 점수 잘 받다가 갑자기 1점 받으니까 좀 기부니가 좀 그르네,,, - 자릿수별로 나눠서 더하는 방법이 있었다니... <br>
