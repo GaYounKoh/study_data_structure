@@ -85,5 +85,5 @@ InteractiveShell.ast_node_interactivity = "all"
 나도 진짜 잘 풀었는데 딕셔너리 아닌 리스트로 푸는 방법도 있었음. <br>
 <br>
 
-43121 (19, 1094) <br>
+43122 (19, 1094) <br>
 PaGe 3 ClEaR!!~!~!!~!!!!
