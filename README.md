@@ -112,4 +112,62 @@ ord라는 함수에 대해 알아볼것,,,,(~~문자열 순서대로 만드는 �
 
 # 220404 5w 데이터 마이닝
 꺅 스택문제를 풀었다?!?!?!?!?!?!!!!!?!?!? 세상에. 심지어 혼자 풀었다????!?!?!?! <br>
-그런데 오늘 수업 많이 졸았음... 킹킹,,~
+그런데 오늘 수업 많이 졸았음... 킹킹,,~ <br>
+<br>
+
+* ***스택*** <br>
+1. <span style = 'color:red'>후입 선출</span> (선입 후출, LIFO) <br>
+a. 기억하고 있어야 할 때 <br>
+b. 가장 ***최근***에 들어오는게 ***가장 먼저*** 나가야할 때 씀. <br>
+c. ***후입***일 수록 ***우선순위***가 높음. (가장 ***마지막***에 들어온 원소를 <span style = 'color:red'>***top***</span>이라고 부름.) <br>
+d. 입구, 출구 하나 <br>
+<br>
+
+2. 예시 <br>
+```python
+stack = []
+
+## 스택 처리 코드
+stack.append(5) # stack 상태 : [5]
+stack.append(2) # stack 상태 : [5,2]
+stack.append(3) # stack 상태 : [5,2,3]
+stack.append(7) # stack 상태 : [5,2,3,7]
+stack.pop()     # stack 상태 : [5,2,3]    # 가장 나중에 들어온 7이 삭제 됨.
+stack.append(1) # stack 상태 : [5,2,3,1]
+stack.append(4) # stack 상태 : [5,2,3,1,4]
+stack.pop()     # stack 상태 : [5,2,3,1]  # 가장 나중에 들어온 1이 삭제 됨.
+
+## 결과
+stack = [5,2,3,1]
+```
+<br>
+
+3. tips <br>
+a. 못하겠으면 손으로 먼저 풀어보기! <br>
+b. pop()은 뽑아서 삭제하는 코드 <br>
+c. <span style = 'color:red'>***[-1]로 인덱싱***</span> 해서 마지막 꺼 뽑아서 ***조건검사*** 하는 것도 잊으면 안됨. <br>
+d. 짝 맞춰야하는 문제는 dic에 짝 지어주는게 핵심. <br>
+--- <span style = 'color:red'>{후입:선입}</span>식으로, <br>
+key로 value 찾는 기능 이용. <br>
+e. stack은 연산을 효율적으로 하기 위해 하는 것. (속도 면...) <br>
+
+
+<br>
+
+* ***큐*** <br>
+1. 선입선출 (FIFO) <br>
+들어온 순서 그대로 기억해야할 때 <br>
+a. 입구, 출구 각각 <br>
+<br>
+
+2. BFS 문제에서 활용 <br>
+<br>
+
+3. queue 구현을 위한 라이브러리 (.pop(0) 성능이 나쁘기 때문에 사용.)
+```python
+from collections import deque
+
+queue = deque(list) # 이런식으로 받아서 사용.
+
+## .pop(0)대신 .popleft() 사용. 성능 훨씬 좋음.
+```
