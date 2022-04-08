@@ -179,3 +179,6 @@ queue = deque(list) # 이런식으로 받아서 사용.
 원 풀이법: 에라토스테네스의 체 <br>
 응용한 풀이법: 배수를 계속 차집합 <br>
 
+# 220407 rank (solved Q, total score)
+37331 (26, 1117)
+* list에서도 index 쓰임.
