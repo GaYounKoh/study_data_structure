@@ -182,3 +182,8 @@ queue = deque(list) # 이런식으로 받아서 사용.
 # 220407 rank (solved Q, total score)
 37331 (26, 1117)
 * list에서도 index 쓰임.
+<br>
+
+# 220410 rank (solved Q, total score)
+36683 (27, 1120) <br>
+for loop 돌리다가 다 돌기 전에 먼저 조건 만족하면 그냥 리턴 하는... <br>
