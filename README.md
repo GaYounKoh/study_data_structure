@@ -205,4 +205,26 @@ while 옆에는 종료 조건임. 조건 불충족시 종료됨.
 36894 (28, 1122) <br>
 
 # 220430
-24799 (29, 2232) <br>
+24799 (29, 1132) <br>
+
+# 220507
+34502 (30, 1135) <br>
+
+## strip은 덮어쓰기가 안됨.
+좌우 '.' 지우기가 됨. <br>
+<br>
+
+## filter 함수 <br>
+내장함수를 built in 함수라고 함. <br>
+filter 대신 for loop의 enumerate 사용 가능. <br>
+* 2개 이상의 문자에 대해서는 인덱싱이 안됨. <br>
+[참고1](https://ai-hyu.com/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%97%AC%EB%9F%AC%EA%B0%9C-%EC%B0%BE%EA%B8%B0/) <br>
+[참고2 - 딱 필요한 부분만 적혀있음.](https://weejw.tistory.com/374) <br>
+[참고3 - 자세한 설명](https://bill1224.tistory.com/228) <br>
+
+
+sub라는 함수가 있었음. <br>
+정규식이라는게 있었음... (re 모듈을 사용하는...) <br>
+> re 모듈은 Regular Expressions의 약어 <br>
+(뭔가 당장은 몰라도 될 것 같은 느낌... 이상한 문자들이 코드인듯., 수준 내에서는 충분히 잘 풀었음.) <br>
+
