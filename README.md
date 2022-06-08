@@ -251,3 +251,7 @@ sub라는 함수가 있었음. <br>
 # 220607 rank (solved Q, total score)
 * reverse는 sorted(문자열, 리스트, ...) 안에 옵션으로 들어가는 것.
 35278 (31, 1137)
+
+# 220608 rank (solved Q, total score)
+* 같은 ~~는 싫어! 문제 tip
+> stack & append, pop 이용.
